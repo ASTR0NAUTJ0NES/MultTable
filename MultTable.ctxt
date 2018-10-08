@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MultTable
+comment0.text=\r\n\ A\ program\ to\ print\ a\ multiplication\ table\r\n\ \r\n\ @author\ Andrew\ Peyton\ Albanese\r\n\ @version\ 2016-01-23\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
